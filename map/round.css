@@ -1,0 +1,50 @@
+body {
+    background-image: url('/map/back.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    height: 900px;
+}
+
+.icons1{
+    position: absolute;
+    margin: 480px 0px 0px 260px;
+    width: 1em;
+}
+.icons1 img{
+    max-width: 50px;
+}
+
+.icons2{
+    position: absolute;
+    margin: 230px 0px 0px 450px;
+    width: 1em;
+}
+.icons2 img{
+    max-width: 50px;
+}
+.icons3{
+    position: absolute;
+    margin:500px 0px 0px 610px;
+    width: 1em;
+}
+.icons3 img{
+    max-width: 50px;
+}
+.icons4{
+    position: absolute;
+    margin: 180px 0px 0px 780px;
+    width: 1em;
+}
+.icons4 img{
+    max-width: 50px;
+}
+
+.icons5{
+    position: absolute;
+    margin: 400px 0px 0px 980px;
+    width: 1em;
+}
+.icons5 img{
+    max-width: 50px;
+}

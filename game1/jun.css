@@ -1,0 +1,151 @@
+.text{
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  color: #282c34;
+}
+.cont {
+ position: relative;
+ width: 100%;
+ /*background-image: url("/src/img/back.jpg");*/
+ height: 100%;
+ background-position: left;
+ background-repeat: no-repeat;
+ background-size: cover;
+  background-color: #6abfe1;
+}
+.btn1 {
+background-color: transparent;
+  appearance: none;
+  cursor: pointer;
+  border: none;
+  position: absolute;
+  transform: translate(555%, -195%);
+  -ms-transform: translate(-260%, -20%);
+}
+.btn2 {
+background-color: transparent;
+  appearance: none;
+  cursor: pointer;
+  border: none;
+  position: absolute;
+  transform: translate(440%, -240%);
+  -ms-transform: translate(-260%, -20%);
+}
+.btn3 {
+background-color: transparent;
+  appearance: none;
+  cursor: pointer;
+  border: none;
+  position: absolute;
+  transform: translate(10%, -480%);
+  -ms-transform: translate(-260%, -20%);
+}
+.btn4 {
+background-color: transparent;
+  appearance: none;
+  cursor: pointer;
+  border: none;
+  position: absolute;
+  transform: translate(350%, -151%);
+  -ms-transform: translate(-260%, -20%);
+}
+.btn5 {
+background-color: transparent;
+  appearance: none;
+  cursor: pointer;
+  border: none;
+  position: absolute;
+  transform: translate(260%, -210%);
+  -ms-transform: translate(-260%, -20%);
+}
+.btn6 {
+background-color: transparent;
+  appearance: none;
+  cursor: pointer;
+  border: none;
+  position: absolute;
+  transform: translate(1500%, -800%);
+  -ms-transform: translate(-260%, -20%);
+}
+.btn7 {
+background-color: transparent;
+  appearance: none;
+  cursor: pointer;
+  border: none;
+  position: absolute;
+  transform: translate(120%, -250%);
+  -ms-transform: translate(-260%, -20%);
+}
+.btn8 {
+background-color: transparent;
+  appearance: none;
+  cursor: pointer;
+  border: none;
+  position: absolute;
+  transform: translate(360%, -200%);
+  -ms-transform: translate(-260%, -20%);
+}
+.btn9 {
+background-color: transparent;
+  appearance: none;
+  cursor: pointer;
+  border: none;
+  position: absolute;
+  transform: translate(140%, -170%);
+  -ms-transform: translate(-260%, -20%);
+}
+
+.btn11 {
+background-color: transparent;
+  appearance: none;
+  cursor: pointer;
+  border: none;
+  position: absolute;
+  transform: translate(380%, -780%);
+  -ms-transform: translate(-560%, -20%);
+}
+.btn12 {
+background-color: transparent;
+  appearance: none;
+  cursor: pointer;
+  border: none;
+  position: absolute;
+  transform: translate(140%, -160%);
+  -ms-transform: translate(-260%, -20%);
+}
+.btn13 {
+background-color: transparent;
+  appearance: none;
+  cursor: pointer;
+  border: none;
+  position: absolute;
+  transform: translate(300%, -120%);
+  -ms-transform: translate(-260%, -20%);
+}
+.btn14 {
+background-color: transparent;
+  appearance: none;
+  cursor: pointer;
+  border: none;
+  position: absolute;
+  transform: translate(10%, -180%);
+  -ms-transform: translate(-260%, -20%);
+}
+.btn15 {
+background-color: transparent;
+  appearance: none;
+  cursor: pointer;
+  border: none;
+  position: absolute;
+  transform: translate(110%, -300%);
+  -ms-transform: translate(-260%, -20%);
+}
+
+
+.cont img {
+ width: 111%;
+ height: auto;
+ margin-top: -10px;
+ margin-left: -60px;
+ padding: 0;
+}

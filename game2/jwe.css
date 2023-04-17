@@ -1,0 +1,76 @@
+body{
+    background-color: #2D180B;
+
+}
+
+.text{
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    color: white;
+}
+.cont {
+ position: relative;
+ width: 100%;
+ /*background-image: url("/src/img/back.jpg");*/
+ height: 100%;
+ background-position: left;
+ background-repeat: no-repeat;
+ background-size: cover;
+    background-color: #2D180B;
+}
+.image{
+  max-width: 40px;
+}
+.btn1 {
+  background-color: transparent;
+  appearance: none;
+  cursor: pointer;
+  border: none;
+  position: absolute;
+  transform: translate(1305%, -945%);
+  -ms-transform: translate(-260%, -20%);
+
+}
+.btn2 {
+background-color: transparent;
+  appearance: none;
+  cursor: pointer;
+  border: none;
+  position: absolute;
+  transform: translate(1940%, -940%);
+  -ms-transform: translate(-260%, -20%);
+}
+.btn3 {
+background-color: transparent;
+  appearance: none;
+  cursor: pointer;
+  border: none;
+  position: absolute;
+  transform: translate(50%, -780%);
+  -ms-transform: translate(-260%, -20%);
+}
+.btn4 {
+background-color: transparent;
+  appearance: none;
+  cursor: pointer;
+  border: none;
+  position: absolute;
+  transform: translate(600%, -351%);
+  -ms-transform: translate(-260%, -20%);
+}
+.btn5 {
+background-color: transparent;
+  appearance: none;
+  cursor: pointer;
+  border: none;
+  position: absolute;
+  transform: translate(860%, -810%);
+  -ms-transform: translate(-260%, -20%);
+}
+.cont img {
+ width: 111%;
+ height: auto;
+ margin-top: -10px;
+ margin-left: -60px;
+ padding: 0;
+}
